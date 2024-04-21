@@ -1,9 +1,0 @@
-{
-  "parent": "minecraft:block/glass",
-  "overrides":[
-    {"predicate":{"custom_model_data":1}, "model": "custom/gear/green"},
-    {"predicate":{"custom_model_data":2}, "model": "custom/gear/purple"},
-    {"predicate":{"custom_model_data":3}, "model": "custom/gear/orange"},
-    {"predicate":{"custom_model_data":4}, "model": "custom/gear/blue"}
-  ]
-}
