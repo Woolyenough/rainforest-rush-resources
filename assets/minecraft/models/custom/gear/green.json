@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "custom/gear/green.png",
-		"particle": "custom/gear/green.png"
+		"0": "custom/gear/green",
+		"particle": "custom/gear/green"
 	},
 	"elements": [
 		{
