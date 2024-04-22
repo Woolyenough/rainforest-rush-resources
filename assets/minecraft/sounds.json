@@ -1,0 +1,12 @@
+{
+    "weather.rain": {
+        "sounds": [
+          {
+            "name": "weather/rain",
+            "volume": 1,
+            "weight": 10
+          }
+        ],
+        "replace":true
+      }
+}
