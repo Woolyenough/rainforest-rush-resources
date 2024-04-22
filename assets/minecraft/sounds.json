@@ -8,5 +8,15 @@
           }
         ],
         "replace":true
+      },
+      "weather.rain.above": {
+        "sounds": [
+          {
+            "name": "weather/rain",
+            "volume": 0,
+            "weight": 10
+          }
+        ],
+        "replace":true
       }
 }
