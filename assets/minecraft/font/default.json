@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:icons/join_arrow.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uE000"]
+        }
+    ]
+}
