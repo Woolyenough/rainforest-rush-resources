@@ -4,17 +4,8 @@
           {
             "name": "weather/rain",
             "volume": 1,
-            "weight": 10
-          }
-        ],
-        "replace":true
-      },
-      "weather.rain.above": {
-        "sounds": [
-          {
-            "name": "weather/rain",
-            "volume": 0,
-            "weight": 10
+            "weight": 1,
+            "stream": true
           }
         ],
         "replace":true
