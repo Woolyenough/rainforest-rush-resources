@@ -6,6 +6,13 @@
             "ascent": 9,
             "height": 9,
             "chars": ["\uE000"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:icons/game_die.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE001"]
         }
     ]
 }
