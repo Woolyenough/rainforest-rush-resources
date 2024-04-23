@@ -1,0 +1,5 @@
+{
+    "multiplayer.player.joined": "\uE000§a%s",
+    "multiplayer.player.joined.renamed": "§4%s (%s) LEFT",
+    "multiplayer.player.left": "§4%s LEFT"
+}
