@@ -2,84 +2,84 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "minecraft:icons/join_arrow.png",
+            "file": "minecraft:custom_fonts/icons/join_arrow.png",
             "ascent": 8,
             "height": 9,
             "chars": ["\uE000"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:icons/game_die.png",
+            "file": "minecraft:custom_fonts/icons/game_die.png",
             "ascent": 8,
             "height": 8,
             "chars": ["\uE001"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:numbers/zero.png",
+            "file": "minecraft:custom_fonts/small_numbers/zero.png",
             "ascent": 7,
             "height": 7,
             "chars": ["\uF000"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:numbers/one.png",
+            "file": "minecraft:custom_fonts/small_numbers/one.png",
             "ascent": 7,
             "height": 7,
             "chars": ["\uF001"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:numbers/two.png",
+            "file": "minecraft:custom_fonts/small_numbers/two.png",
             "ascent": 7,
             "height": 7,
             "chars": ["\uF002"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:numbers/three.png",
+            "file": "minecraft:custom_fonts/small_numbers/three.png",
             "ascent": 7,
             "height": 7,
             "chars": ["\uF003"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:numbers/four.png",
+            "file": "minecraft:custom_fonts/small_numbers/four.png",
             "ascent": 7,
             "height": 7,
             "chars": ["\uF004"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:numbers/five.png",
+            "file": "minecraft:custom_fonts/small_numbers/five.png",
             "ascent": 7,
             "height": 7,
             "chars": ["\uF005"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:numbers/six.png",
+            "file": "minecraft:custom_fonts/small_numbers/six.png",
             "ascent": 7,
             "height": 7,
             "chars": ["\uF006"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:numbers/seven.png",
+            "file": "minecraft:custom_fonts/small_numbers/seven.png",
             "ascent": 7,
             "height": 7,
             "chars": ["\uF007"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:numbers/eight.png",
+            "file": "minecraft:custom_fonts/small_numbers/eight.png",
             "ascent": 7,
             "height": 7,
             "chars": ["\uF008"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:numbers/nine.png",
+            "file": "minecraft:custom_fonts/small_numbers/nine.png",
             "ascent": 7,
             "height": 7,
             "chars": ["\uF009"]
