@@ -4,11 +4,11 @@
     "layer0": "minecraft:item/stick"
   },
   "overrides":[
-    {"predicate":{"custom_model_data":1}, "model": "custom/gear/green"},
-    {"predicate":{"custom_model_data":2}, "model": "custom/gear/pink"},
-    {"predicate":{"custom_model_data":3}, "model": "custom/gear/orange"},
-    {"predicate":{"custom_model_data":4}, "model": "custom/gear/blue"},
-    {"predicate":{"custom_model_data":5}, "model": "custom/table"},
-    {"predicate":{"custom_model_data":6}, "model": "custom/board"}
+    {"predicate":{"custom_model_data":1}, "model": "item/custom/gear/green"},
+    {"predicate":{"custom_model_data":2}, "model": "item/custom/gear/pink"},
+    {"predicate":{"custom_model_data":3}, "model": "item/custom/gear/orange"},
+    {"predicate":{"custom_model_data":4}, "model": "item/custom/gear/blue"},
+    {"predicate":{"custom_model_data":5}, "model": "block/custom/table"},
+    {"predicate":{"custom_model_data":6}, "model": "block/custom/board"}
   ]
 }

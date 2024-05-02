@@ -1,3 +1,13 @@
 {
-    "weather.rain": {"sounds": [{"name": "weather/rain","volume": 1, "weight": 1,"stream": true}],"replace":true}
+    "weather.rain": {"sounds": [{"name": "weather/rain","volume": 1, "weight": 1,"stream": true}],"replace":true},
+    "entity.camel.death": {"sounds": [{"name": "mute", "volume": 1, "weight": 1, "stream": true}],"replace":true},
+    "entity.camel.eat": {"sounds": [{"name": "mute", "volume": 1, "weight": 1, "stream": true}],"replace":true},
+    "entity.camel.hurt": {"sounds": [{"name": "mute", "volume": 1, "weight": 1, "stream": true}],"replace":true},
+    "entity.camel.saddle": {"sounds": [{"name": "mute", "volume": 1, "weight": 1, "stream": true}],"replace":true},
+    "entity.camel.sit": {"sounds": [{"name": "mute", "volume": 1, "weight": 1, "stream": true}],"replace":true},
+    "entity.camel.step_sand": {"sounds": [{"name": "mute", "volume": 1, "weight": 1, "stream": true}],"replace":true},
+    "entity.camel.ambient": {"sounds": [{"name": "camel/ambient", "volume": 1, "weight": 1, "stream": true}],"replace":true},
+    "entity.camel.dash": {"sounds": [{"name": "camel/dash", "volume": 1, "weight": 1, "stream": true}],"replace":true},
+    "entity.camel.dash_ready": {"sounds": [{"name": "camel/dash_ready", "volume": 1, "weight": 1, "stream": true}],"replace":true},
+    "entity.camel.step": {"sounds": [{"name": "camel/step", "volume": 1, "weight": 1, "stream": true}],"replace":true}
 }
