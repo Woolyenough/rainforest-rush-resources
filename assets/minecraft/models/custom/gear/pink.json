@@ -1,7 +1,7 @@
 {
 	"textures": {
-		"0": "item/custom/gear/pink",
-		"particle": "item/custom/gear/pink"
+		"0": "item/gear/pink",
+		"particle": "item/gear/pink"
 	},
 	"elements": [
 		{

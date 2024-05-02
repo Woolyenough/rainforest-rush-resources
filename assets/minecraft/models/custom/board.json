@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [4746, 1326],
 	"textures": {
-		"2": "block/custom/table"
+		"2": "item/table"
 	},
 	"elements": [
 		{
