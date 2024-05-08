@@ -1,5 +1,5 @@
 {
-    "multiplayer.player.joined": "\uE000§a%s",
-    "multiplayer.player.joined.renamed": "§4%s (%s) LEFT",
-    "multiplayer.player.left": "§4%s LEFT"
+    "multiplayer.player.joined": "§aWelcome to the jungle, %s",
+    "multiplayer.player.joined.renamed": "§aWelcome to the jungle, %s §7(formerly %s§7)",
+    "multiplayer.player.left": "§cBye, %s §c:v"
 }
