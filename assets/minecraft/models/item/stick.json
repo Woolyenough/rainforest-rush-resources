@@ -12,6 +12,6 @@
     {"predicate":{"custom_model_data":6}, "model": "custom/board"},
     {"predicate":{"custom_model_data":7}, "model": "custom/chair"},
     {"predicate":{"custom_model_data":8}, "model": "custom/barrel"},
-    {"predicate":{"custom_model_data":8}, "model": "custom/rainboat"}
+    {"predicate":{"custom_model_data":9}, "model": "custom/rainboat"}
   ]
 }
