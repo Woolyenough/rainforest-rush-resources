@@ -16,6 +16,27 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:custom_fonts/icons/1_trophy.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE002"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom_fonts/icons/2_trophy.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE003"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom_fonts/icons/3_trophy.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE004"]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:custom_fonts/small_numbers/zero.png",
             "ascent": 7,
             "height": 7,
