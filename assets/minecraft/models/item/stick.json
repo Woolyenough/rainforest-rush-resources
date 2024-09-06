@@ -14,8 +14,8 @@
     {"predicate":{"custom_model_data":8}, "model": "custom/barrel"},
     {"predicate":{"custom_model_data":9}, "model": "custom/rainboat"},
     {"predicate":{"custom_model_data":10}, "model": "custom/horse"},
-    {"predicate":{"custom_model_data":11}, "model": "custom/stand"}
-
+    {"predicate":{"custom_model_data":11}, "model": "custom/stand"},
+    {"predicate":{"custom_model_data":12}, "model": "custom/red_arrow"}
 
   ]
 }
