@@ -37,6 +37,13 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:custom_fonts/icons/wrench.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE005"]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:custom_fonts/small_numbers/zero.png",
             "ascent": 7,
             "height": 7,
