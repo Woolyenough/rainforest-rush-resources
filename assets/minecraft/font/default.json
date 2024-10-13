@@ -44,6 +44,20 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:custom_fonts/icons/player.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": ["\uE006"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom_fonts/icons/spectator.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": ["\uE007"]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:custom_fonts/small_numbers/zero.png",
             "ascent": 7,
             "height": 7,

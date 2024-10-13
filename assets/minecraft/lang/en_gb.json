@@ -1,5 +1,5 @@
 {
-    "multiplayer.player.joined": "§2Hi, %s§2!",
-    "multiplayer.player.joined.renamed": "§2Hi, %s §7(formerly %s§7)",
-    "multiplayer.player.left": "§4Bye, %s"
+    "multiplayer.player.joined": "%s§2 has joined!",
+    "multiplayer.player.joined.renamed": "%s §7(formerly %s§7) §2has joined!",
+    "multiplayer.player.left": "%s §4has left"
 }
