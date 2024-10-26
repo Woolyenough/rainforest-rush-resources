@@ -4,18 +4,17 @@
     "layer0": "minecraft:item/stick"
   },
   "overrides":[
-    {"predicate":{"custom_model_data":1}, "model": "custom/gear/green"},
-    {"predicate":{"custom_model_data":2}, "model": "custom/gear/pink"},
-    {"predicate":{"custom_model_data":3}, "model": "custom/gear/orange"},
-    {"predicate":{"custom_model_data":4}, "model": "custom/gear/blue"},
-    {"predicate":{"custom_model_data":5}, "model": "custom/table"},
-    {"predicate":{"custom_model_data":6}, "model": "custom/board"},
-    {"predicate":{"custom_model_data":7}, "model": "custom/chair"},
-    {"predicate":{"custom_model_data":8}, "model": "custom/barrel"},
-    {"predicate":{"custom_model_data":9}, "model": "custom/rainboat"},
-    {"predicate":{"custom_model_data":10}, "model": "custom/horse"},
-    {"predicate":{"custom_model_data":11}, "model": "custom/stand"},
-    {"predicate":{"custom_model_data":12}, "model": "custom/red_arrow"}
+    {"predicate":{"custom_model_data":1}, "model": "sunglasses"},
+    {"predicate":{"custom_model_data":3}, "model": "crown"},
+    {"predicate":{"custom_model_data":4}, "model": "tophat"},
+    {"predicate":{"custom_model_data":5}, "model": "table"},
+    {"predicate":{"custom_model_data":6}, "model": "board"},
+    {"predicate":{"custom_model_data":7}, "model": "chair"},
+    {"predicate":{"custom_model_data":8}, "model": "barrel"},
+    {"predicate":{"custom_model_data":9}, "model": "rainboat"},
+    {"predicate":{"custom_model_data":10}, "model": "horse"},
+    {"predicate":{"custom_model_data":11}, "model": "stand"},
+    {"predicate":{"custom_model_data":12}, "model": "red_arrow"}
 
   ]
 }
