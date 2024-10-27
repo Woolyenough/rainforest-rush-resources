@@ -11,10 +11,9 @@
     {"predicate":{"custom_model_data":6}, "model": "board"},
     {"predicate":{"custom_model_data":7}, "model": "chair"},
     {"predicate":{"custom_model_data":8}, "model": "barrel"},
-    {"predicate":{"custom_model_data":9}, "model": "rainboat"},
     {"predicate":{"custom_model_data":10}, "model": "horse"},
     {"predicate":{"custom_model_data":11}, "model": "stand"},
-    {"predicate":{"custom_model_data":12}, "model": "red_arrow"}
-
+    {"predicate":{"custom_model_data":12}, "model": "red_arrow"},
+    {"predicate":{"custom_model_data":13}, "model": "namestand"}
   ]
 }
