@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/gear/green",
-		"particle": "item/gear/green"
+		"0": "item/sunglasses",
+		"particle": "item/sunglasses"
 	},
 	"elements": [
 		{
